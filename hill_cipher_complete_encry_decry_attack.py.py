@@ -2,6 +2,9 @@
 import numpy as np
 from egcd import egcd 
 
+#install numpy
+#install egcd
+
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 !#$%&'()*+,-./:;<=>?@[\]^_`{|}~√⇝∞▶▲░◀●☀☢☠☟☞☝☜☛☚☑☐☉☆★☄☃☂☁☣☪☮☯☸☹☺☻☼☽☾♔♕♖♗♘♚♛♜❝❞❣❤❥❦⌨︎✏︎✒︎✉︎✂︎⛏︎⚒︎⚔︎⚙︎⚖︎⭣⭤⭥⮂⮃⮐⮑⬎⬏⬐⬑⬱⬳⬸⬿⭅⭆↕↖↗↘↙↚↛↜↝↞↟↠↡↢↣↤↥↦↧↨↩↪↫↬↭↮↯↰↱↲↳↴↶↷↸↹↺↻⟲⟳↼↽↾↿⇀⇁⇂⇃⇄⇅⇆⇇⇈⇉⇊⇋⇌⇍⇎⇏⇕⇖⇗⇘⇙⇚⇛⇜⇝⇞⇟⇠⇡⇢"
 print("-----------------------------------")
 print("Length of the alphabet is : ")
