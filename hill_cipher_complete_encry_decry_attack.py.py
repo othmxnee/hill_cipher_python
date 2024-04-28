@@ -2,8 +2,8 @@
 import numpy as np
 from egcd import egcd 
 
-#install numpy
-#install egcd
+#pip install numpy
+#pip install egcd
 
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 !#$%&'()*+,-./:;<=>?@[\]^_`{|}~√⇝∞▶▲░◀●☀☢☠☟☞☝☜☛☚☑☐☉☆★☄☃☂☁☣☪☮☯☸☹☺☻☼☽☾♔♕♖♗♘♚♛♜❝❞❣❤❥❦⌨︎✏︎✒︎✉︎✂︎⛏︎⚒︎⚔︎⚙︎⚖︎⭣⭤⭥⮂⮃⮐⮑⬎⬏⬐⬑⬱⬳⬸⬿⭅⭆↕↖↗↘↙↚↛↜↝↞↟↠↡↢↣↤↥↦↧↨↩↪↫↬↭↮↯↰↱↲↳↴↶↷↸↹↺↻⟲⟳↼↽↾↿⇀⇁⇂⇃⇄⇅⇆⇇⇈⇉⇊⇋⇌⇍⇎⇏⇕⇖⇗⇘⇙⇚⇛⇜⇝⇞⇟⇠⇡⇢"
 print("-----------------------------------")
