@@ -91,9 +91,9 @@ def attack():
     m_in_numbers = np.array([letter_to_index[char] for char in m]).reshape(2, 2).T
     print("About the attack : ")
     print("-----------------------------------")
-    print("Plain-text Matrix (M):\n", m_in_numbers)
+    print("Plain-text Matrix  (M) :\n", m_in_numbers)
     print("-----------------------------------")
-    print("Cipher-text Matrix (C):\n", c_in_numbers)
+    print("Cipher-text Matrix  (C) :\n", c_in_numbers)
     print("-----------------------------------")
 
     try:
